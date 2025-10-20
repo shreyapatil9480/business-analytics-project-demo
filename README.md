@@ -55,3 +55,8 @@ Feel free to fork the repository and experiment with different modeling techniqu
 ## License
 
 This project is released under the MIT License.
+
+
+## Contributions
+
+Contributions, bug reports, and feature requests are welcome! If you have suggestions to improve this project or to extend its functionality, feel free to open an issue or submit a pull request.
